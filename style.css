@@ -1,0 +1,105 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color:black ;
+}
+header{ 
+    background-color: azure;
+    text-align: left;
+    padding: 20px;
+    color: black;
+    gap: 12px;
+}
+nav a{
+    padding-right: 50px;
+    border-radius: 8px;
+    text-align: right;
+    text-decoration: none;
+    font-weight: bold;
+}
+header h1{
+    margin: 5px;
+    font-size: 25px;
+}
+header h2{
+    margin: 5px;
+    font-size: 25px;
+}
+.logo img{
+    width: 200px;
+    height: auto;
+    display: block; 
+    margin: 0% auto 10px;
+}
+p{
+    line-height:auto;
+    width: 80%;
+    margin: 10px;
+}
+h2,h3,h4{
+    color: black;
+    text-align: justify;
+}
+footer{
+    background-color: azure;
+    color: aqua;
+    padding: 15px ;
+    text-align: center;
+    margin-top: 40px;
+}
+.drk img{
+    width: 800px;
+    display: block;
+    margin: 20px;
+    height: 350px;
+    padding-inline-end: 150px;
+    border-radius: 10px;
+}
+.facade img{
+    width: 800px; 
+    padding-left: 6px;
+}
+.office img{
+    width: 200px; 
+}
+.jpeg img{  
+    width: 200px;
+    height: 250px;
+}
+form input{ 
+    padding: 10px;
+    margin: 5px;
+    width: 500px;
+}
+button{
+    background-color: rgb(216, 192, 58);
+    padding: 10px;
+}
+legend{
+    background-color: rgb(201, 203, 42);
+    padding: 10px;
+}
+.video{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    width: 80%;
+    border-radius: 10px;
+}
+.video video{
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(155, 113, 113);
+}li{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
